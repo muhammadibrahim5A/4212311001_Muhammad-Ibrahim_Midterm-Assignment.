@@ -11,6 +11,6 @@ Buatlah program untuk klasifikasi karakter tulisan tangan pada dataset EMNIST (E
 
 Ref : https://machinelearningmastery.com/loocv-for-evaluating-machine-learning-algorithms/
 
-• Kita dapat melakukan tuning parameter HOG dan SVM untuk memperoleh performa terbaik.
+• Anda dapat melakukan tuning parameter HOG dan SVM untuk memperoleh performa terbaik.
 
 • Source code program di-upload di Github
