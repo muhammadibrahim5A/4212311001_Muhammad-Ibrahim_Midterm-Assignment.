@@ -10,3 +10,7 @@ Buatlah program untuk klasifikasi karakter tulisan tangan pada dataset EMNIST (E
 • Lakukan evaluasi performa menggunakan Leave-One-Out-Cross-Validation (LOOCV) dengan menampilkan confussion matrix, accuracy, precision dan F1-score.
 
 Ref : https://machinelearningmastery.com/loocv-for-evaluating-machine-learning-algorithms/
+
+• Kita dapat melakukan tuning parameter HOG dan SVM untuk memperoleh performa terbaik.
+
+• Source code program di-upload di Github
