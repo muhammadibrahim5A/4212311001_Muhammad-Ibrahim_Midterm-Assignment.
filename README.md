@@ -14,3 +14,5 @@ Ref : https://machinelearningmastery.com/loocv-for-evaluating-machine-learning-a
 • Anda dapat melakukan tuning parameter HOG dan SVM untuk memperoleh performa terbaik.
 
 • Source code program di-upload di Github
+
+YT : https://youtu.be/cdA6xvYY3c0?si=592U1l4VIiLGBezP
